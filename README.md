@@ -1,3 +1,10 @@
+
+# To run this projject use 
+npm start --open
+
+# to run the demo app (this for using MDB design)
+npm run demo 
+
 # mdbvue
 
 > Vue Bootstrap with Material Design
