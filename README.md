@@ -1,5 +1,5 @@
 
-# To run this projject use 
+# To run this project use 
 npm start --open
 
 # to run the demo app (this for using MDB design)
